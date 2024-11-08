@@ -21,7 +21,7 @@ Here’s a summary of the changes made to the code:
 - Simulating Keystrokes: When the input type is ‘input’, the code was altered to simulate typing each character of the response. This is achieved using the document.execCommand('insertText', false, answer[i]); method within a loop.
 - Random Response Delay: The response delay after entering the answer was adjusted to be random, ranging between 3 and 8 seconds. This is accomplished by using Math.random() to generate a random number, multiplying it by the difference between the maximum and minimum delay, and then adding the minimum delay.
 
-# MY CHANGES:
+### MY CHANGES:
 
 #### v9
 
