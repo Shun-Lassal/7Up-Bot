@@ -29,8 +29,3 @@ Here’s a summary of the changes made to the code:
   - This includes URLs such as `/professional-survival-kit/66/1/3` or similar structures.
   - Implemented a flexible route check with regex that allows for hyphens in the text portion, enabling broader matching.
   - When the script encounters such routes, it now clicks on a button within a div of class `kpds-action-bottom`, if present.
-- **Bug Fix**: Enhanced route detection for URLs with hyphens in the text segment, ensuring the correct navigation on paths like `/professional-survival-kit/66/1/3`.
-
-
-
-These modifications were implemented to address issues encountered while using the script on the target website. They aim to enhance the script’s compatibility with the specific logic of the website for input detection in form fields.
