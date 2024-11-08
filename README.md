@@ -21,10 +21,6 @@ Here’s a summary of the changes made to the code:
 
 ## MY CHANGES:
 
-Here’s a changelog entry that you can add to your GitHub repository for the recent update:
-
----
-
 ### Changelog
 
 #### v9
