@@ -1,4 +1,4 @@
-# 7speaking-bot-legacy
+# 7Up-Bot
 An attempt to automatize [7Speaking](7speaking.com). Works for "My7Speaking" and TOEIC (Trainings + Exams).
 
 ## How to install
