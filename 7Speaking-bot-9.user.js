@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         7Speaking Bot Legacy
-// @namespace    https://github.com/Dixel1
-// @version      8.5
+// @name         7Up Speaking Bot
+// @namespace    https://github.com/Shun-Lassal
+// @version      9
 // @description  Automatize 7speaking
-// @author       quantumsheep & Dixel1
+// @author       quantumsheep & Dixel1 & Jaakounette (Shun-Lassal)
 // @match        https://user.7speaking.com/*
 // @grant        none
 // ==/UserScript==
