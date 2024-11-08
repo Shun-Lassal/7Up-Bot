@@ -13,15 +13,15 @@ An attempt to automatize [7Speaking](7speaking.com). Works for "My7Speaking" and
 
 # Changelogs :
 
+#### v8.5
+
 Here’s a summary of the changes made to the code:
 
 - Conversion to String: The findAnswer function was modified to convert the response into a string. This adjustment allows handling cases where the response is a number.
 - Simulating Keystrokes: When the input type is ‘input’, the code was altered to simulate typing each character of the response. This is achieved using the document.execCommand('insertText', false, answer[i]); method within a loop.
 - Random Response Delay: The response delay after entering the answer was adjusted to be random, ranging between 3 and 8 seconds. This is accomplished by using Math.random() to generate a random number, multiplying it by the difference between the maximum and minimum delay, and then adding the minimum delay.
 
-## MY CHANGES:
-
-### Changelog
+# MY CHANGES:
 
 #### v9
 
