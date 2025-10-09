@@ -4,6 +4,8 @@ Fonctionnel 08/10/25
 
 Si ça ne fonctionne plus ne venez pas m'harceler !!!
 
+Et on oublie pas l'étoile
+
 An attempt to automatize [7Speaking](7speaking.com). Works for "My7Speaking" and TOEIC (Trainings + Exams).
 
 ## How to install
